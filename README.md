@@ -1,8 +1,7 @@
 ## Computer and Robot Vision
 <img src="https://github.com/yehengchen/Computer-and-Robot-Vision-Paper-List/blob/master/img/overview-2.png" style="zoom:100%;" />
 
-## Conference
-* ### Computer Vision
+* ### Computer Vision Conference
     * __CVPR__ : IEEE/CVF Conference on Computer Vision and Pattern Recognition
     * __ECCV__ : European Conference on Computer Vision
     * __ICCV__ : IEEE/CVF International Conference on Computer Vision
@@ -12,7 +11,7 @@
     * __ACCV__ : Asian Conference on Computer Vision (ACCV)
     * __ICPR__ : International Conference on Pattern Recognition
 
-* ### Robotic (Robot Vision)
+* ### Robotic (Robot Vision) Conference
     * __ICRA__ : IEEE International Conference on Robotics and Automation
     * __IROS__ : IEEE/RSJ International Conference on Intelligent Robots and Systems
     * __RSS__ : Robotics: Science and Systems
@@ -20,9 +19,8 @@
     * __ICARCV__ : International Conference on Control, Automation, Robotics and Vision
     * __CoRL__: Conference on Robot Learning
 
-
-
-
+***
+### Robot Vision
 
 
 |                          Paper List                          |  Link                                            |   Keywords                                                     |
