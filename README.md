@@ -1,5 +1,5 @@
 ## Computer and Robot Vision
-<img src="https://github.com/yehengchen/Computer-and-Robot-Vision-Paper-List/blob/master/img/CVoverview.png" style="zoom:100%;" />
+<img src="https://github.com/yehengchen/Computer-and-Robot-Vision-Paper-List/blob/master/img/overview-2.png" style="zoom:100%;" />
 
 Machine
 * Robot Vision
