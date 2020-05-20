@@ -27,6 +27,7 @@
 | Figure | Paper List |  Link | Keywords |
 | :-----:| :--------: | :---: | :------: |
 | F | Form2Fit: Learning Shape Priors for Generalizable Assembly from Disassembly - **ICRA 2020** |  [arXiv](https://arxiv.org/pdf/1910.13675v1.pdf) [GitHub](https://github.com/kevinzakka/form2fit)| Self-Assembling Robots |
+| F | DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion - **CVPR 2019** |  [arXiv](https://arxiv.org/pdf/1901.04780v1.pdf) [GitHub](https://github.com/j96w/DenseFusion)| 6D Object Pose Estimation,RGB-D data,real-time |
 | F | UnrealROX: An eXtremely Photorealistic Virtual Reality Environment for Robotics Simulations and Synthetic Data Generation - **IROS 2018** | [arXiv](https://arxiv.org/pdf/1810.06936.pdf) [GitHub](https://github.com/3dperceptionlab/therobotrix)  |   Robotics Simulations and Synthetic Data Generation |
 | F | PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes - **RSS 2018** | [arXiv](https://arxiv.org/abs/1711.00199) [GitHub](https://github.com/yuxng/PoseCNN) | 6D Object Pose Estimation |
 | F | Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects - **CoRL 2018** | [arXiv](https://arxiv.org/abs/1809.10790) [GitHub](https://github.com/NVlabs/Deep_Object_Pose) | 6D pose estimation synthetic data, randomization |
