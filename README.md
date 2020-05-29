@@ -14,7 +14,7 @@
     * __ACCV__ : Asian Conference on Computer Vision (ACCV)
     * __ICPR__ : International Conference on Pattern Recognition
 
-* ### Robotic (Robot Vision) Conference
+* ### Robotic Conference
     * __ICRA__ : IEEE International Conference on Robotics and Automation
     * __IROS__ : IEEE/RSJ International Conference on Intelligent Robots and Systems
     * __RSS__ : Robotics: Science and Systems
