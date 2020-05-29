@@ -1,4 +1,6 @@
-## Computer and Robot Vision
+<h1 align="center">
+  Computer and Robot Vision
+</h1>
 <img src="https://github.com/yehengchen/Computer-and-Robot-Vision-Paper-List/blob/master/img/overview-2.png" style="zoom:100%;" />
 
 ## International Conference
