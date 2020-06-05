@@ -28,6 +28,7 @@
 
 | Figure | Paper List |  Link | Keywords |
 | :-----:| :--------: | :---: | :------: |
+| ![](https://github.com/yehengchen/Computer-Vision-and-Robotics-Paper-List/blob/master/img/HybridPose.png)| HybridPose: 6D Object Pose Estimation under Hybrid Representations - **CVPR 2020** | [arXiv](https://arxiv.org/abs/2001.01869) [GitHub](https://github.com/chensong1995/HybridPose) | 6D Object Pose Estimation, RGB data, Real-time |
 | ![](https://github.com/yehengchen/Computer-Vision-and-Robotics-Paper-List/blob/master/img/MoreFusion.png)| MoreFusion: Multi-object Reasoning for 6D Pose Estimation from Volumetric Fusion - **CVPR 2020** | [arXiv](https://arxiv.org/abs/2004.04336) [GitHub](https://github.com/wkentaro/morefusion) | 6D Object Pose Estimation, RGB-D data, Real-time |
 | ![](https://github.com/yehengchen/Computer-and-Robot-Vision-Paper-List/blob/master/img/EPOS.PNG) |   EPOS: Estimating 6D Pose of Objects with Symmetries - **CVPR 2020**  |   [arXiv](https://arxiv.org/abs/2004.00605) [HomePage](http://cmp.felk.cvut.cz/epos)   |   6D Object Pose Estimation, Single RGB input, Surface Fragments     |
 | ![](https://github.com/yehengchen/Computer-and-Robot-Vision-Paper-List/blob/master/img/Form2Fit.png) | Form2Fit: Learning Shape Priors for Generalizable Assembly from Disassembly   - **ICRA 2020** |  [arXiv](https://arxiv.org/pdf/1910.13675v1.pdf) [GitHub](https://github.com/kevinzakka/form2fit)| Self-Assembling Robots, self-supervised data-collection  |
