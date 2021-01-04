@@ -26,7 +26,7 @@
     * __CoRL__: Conference on Robot Learning
 
 ***
-## Robot Vision Paper
+## Robot Vision Paper List
 
 
 | Figure | Paper List |  Link | Keywords |
