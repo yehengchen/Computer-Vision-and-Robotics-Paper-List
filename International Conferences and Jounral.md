@@ -118,9 +118,12 @@ International Journal of Medical Robotics and Computer Assisted Surgery：侧重
 | [Journal of Information Hiding and Multimedia Signal Processing](https://www.scimagojr.com/journalsearch.php?q=21100223313&tip=sid&clean=0) |    26    | 0.166 Q4 | http://bit.kuas.edu.tw                                       |                                                  |
 
 
-## CCF 2019 中国计算机学会推荐国际学术会议和期刊目录
+### CCF 2019 中国计算机学会推荐国际学术会议和期刊目录
 
 参考链接：https://www.ccf.org.cn/Academic_Evaluation/AI/
+
+### SCImago Journal & Country Rank
+参考链接：https://www.scimagojr.com/
 
 
 
