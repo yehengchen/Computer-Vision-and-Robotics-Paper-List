@@ -120,30 +120,8 @@ International Journal of Medical Robotics and Computer Assisted Surgery：侧重
 
 ## CCF 2019 中国计算机学会推荐国际学术会议和期刊目录
 
-### CCF 推荐会议
+参考链接：https://www.ccf.org.cn/Academic_Evaluation/AI/
 
-![image-20210106112558637](./img/image-20210106112558637.png)
-
-<img src="./img/image-20210106112633816.png" alt="image-20210106112633816"  />
-
-![image-20210106112739155](./img/image-20210106112739155.png)
-
-![image-20210106112812999](./img/image-20210106112812999.png)
-
-
-### CCF 推荐期刊
-
-![image-20210113102806112](./img/image-20210113102806112.png)
-
-![image-20210113102831123](./img/image-20210113102831123.png)
-
-![image-20210113102856024](./img/image-20210113102856024.png)
-
-![image-20210113102923970](./img/image-20210113102923970.png)
-
-![image-20210113102953035](./img/image-20210113102953035.png)
-
-![image-20210113103018568](./img/image-20210113103018568.png)
 
 
 
