@@ -116,3 +116,9 @@ International Journal of Medical Robotics and Computer Assisted Surgery：侧重
 | [模式识别与人工智能 / Pattern Recognition and Artificial Intelligence](https://www.scimagojr.com/journalsearch.php?q=87936&tip=sid&clean=0) |    20    | 0.170 Q4 | http://manu46.magtech.com.cn/Jweb_prai/EN/volumn/home.shtml  |               ![CN](https://jackietseng.github.io/conference_call_for_paper/pics/cn.png)                |
 | [Journal of Advanced Computational Intelligence and Intelligent Informatics](https://www.scimagojr.com/journalsearch.php?q=19700166503&tip=sid&clean=0) |    18    | 0.182 Q4 | https://www.fujipress.jp/jaciii/jc/                          |               ![JP](https://jackietseng.github.io/conference_call_for_paper/pics/jp.png)                |
 | [Journal of Information Hiding and Multimedia Signal Processing](https://www.scimagojr.com/journalsearch.php?q=21100223313&tip=sid&clean=0) |    26    | 0.166 Q4 | http://bit.kuas.edu.tw          
+
+### CCF 2019 中国计算机学会推荐国际学术会议和期刊目录
+参考链接：https://www.ccf.org.cn/Academic_Evaluation/AI/
+
+### SCImago Journal & Country Rank
+参考链接：https://www.scimagojr.com/
