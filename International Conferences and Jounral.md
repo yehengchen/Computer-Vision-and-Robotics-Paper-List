@@ -1,6 +1,6 @@
 # CV & RO 国际会议期刊 (2020 - 2021)
 
-## International Conferences - 会议
+## International Conferences
 
 
 | H-Index | **Conference Name**                                          | **Conference Location**                                      | **Submission Deadline**      | **Conference Date**   | **Website**                                                  | Field |
@@ -45,7 +45,7 @@
 
 
 
-## SCI Jounral - 期刊
+## SCI Jounral
 
 ###  RO - 机器人
 
@@ -97,35 +97,4 @@ International Journal of Medical Robotics and Computer Assisted Surgery：侧重
 | [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://www.scimagojr.com/journalsearch.php?q=24254&tip=sid&clean=0) |   344    | 7.536 Q1 | https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34  | ![US](https://jackietseng.github.io/conference_call_for_paper/pics/us.png) |
 | [Pattern Recognition](https://www.scimagojr.com/journalsearch.php?q=24823&tip=sid&clean=0) |   195    | 2.323 Q1 | https://www.sciencedirect.com/journal/pattern-recognition    |               ![GB](https://jackietseng.github.io/conference_call_for_paper/pics/uk.png)                |
 | [International Journal of Computer Vision](https://www.scimagojr.com/journalsearch.php?q=72242&tip=sid&clean=0) |   181    | 4.121 Q1 | https://link.springer.com/journal/11263                      |               ![NL](https://jackietseng.github.io/conference_call_for_paper/pics/nl.png)                |
-| [Pattern Recognition Letters](https://www.scimagojr.com/journalsearch.php?q=24825&tip=sid&clean=0) |   149    | 0.848 Q1 | [Pattern Recognition Letters - Journal - Elsevier](https://www.journals.elsevier.com/pattern-recognition-letters) |               ![NL](https://jackietseng.github.io/conference_call_for_paper/pics/nl.png)                |
-| [Computer Vision and Image Understanding](https://www.scimagojr.com/journalsearch.php?q=24161&tip=sid&clean=0) |   128    | 1.453 Q1 | https://www.sciencedirect.com/journal/computer-vision-and-image-understanding |               ![US](https://jackietseng.github.io/conference_call_for_paper/pics/us.png)                |
-| [IEEE Transactions on Visualization and Computer Graphics](https://www.scimagojr.com/journalsearch.php?q=25535&tip=sid&clean=0) |   128    | 1.519 Q1 | https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945 |               ![US](https://jackietseng.github.io/conference_call_for_paper/pics/us.png)                |
-| [Image and Vision Computing](https://www.scimagojr.com/journalsearch.php?q=25549&tip=sid&clean=0) |   125    | 1.032 Q1 | [Image and Vision Computing - Journal - Elsevier](https://www.journals.elsevier.com/image-and-vision-computing) |               ![GB](https://jackietseng.github.io/conference_call_for_paper/pics/uk.png)                |
-| [Medical Image Analysis](https://www.scimagojr.com/journalsearch.php?q=17271&tip=sid&clean=0) |   122    | 3.877 Q1 | https://www.sciencedirect.com/journal/medical-image-analysis |               ![NL](https://jackietseng.github.io/conference_call_for_paper/pics/nl.png)                |
-| [Journal of the Optical Society of America A: Optics and Image Science, and Vision](https://www.scimagojr.com/journalsearch.php?q=12320&tip=sid&clean=0) |   150    | 0.670 Q2 | https://www.osapublishing.org/josaa/home.cfm                 |               ![US](https://jackietseng.github.io/conference_call_for_paper/pics/us.png)                |
-| [ Journal of Visual Communication and Image Representation](https://www.scimagojr.com/journalsearch.php?q=25592&tip=sid&clean=0) |    74    | 0.619 Q2 | https://www.journals.elsevier.com/journal-of-visual-communication-and-image-representation |               ![US](https://jackietseng.github.io/conference_call_for_paper/pics/us.png)                |
-| [Computers and Graphics](https://www.scimagojr.com/journalsearch.php?q=25028&tip=sid&clean=0) |    65    | 0.571 Q2 | https://www.journals.elsevier.com/computers-and-graphics     |               ![GB](https://jackietseng.github.io/conference_call_for_paper/pics/uk.png)                |
-| [Machine Vision and Applications](https://www.scimagojr.com/journalsearch.php?q=12984&tip=sid&clean=0) |    63    | 0.517 Q2 | https://www.springer.com/journal/138                         |               ![DE](https://jackietseng.github.io/conference_call_for_paper/pics/de.png)                |
-| [ Visual Computer](https://www.scimagojr.com/journalsearch.php?q=26146&tip=sid&clean=0) |    62    | 0.439 Q2 | https://www.springer.com/journal/371                         |               ![DE](https://jackietseng.github.io/conference_call_for_paper/pics/de.png)                |
-| [Pattern Analysis and Applications](https://www.scimagojr.com/journalsearch.php?q=24822&tip=sid&clean=0) |    51    | 0.419 Q2 | https://www.springer.com/journal/10044                       |               ![GB](https://jackietseng.github.io/conference_call_for_paper/pics/uk.png)                |
-| [International Journal of Pattern Recognition and Artificial Intelligence](https://www.scimagojr.com/journalsearch.php?q=24310&tip=sid&clean=0) |    52    | 0.344 Q3 | https://www.worldscientific.com/worldscinet/ijprai           |               ![SG](https://jackietseng.github.io/conference_call_for_paper/pics/sg.png)                |
-| [Pattern Recognition and Image Analysis](https://www.scimagojr.com/journalsearch.php?q=4700152485&tip=sid&clean=0) |    21    | 0.336 Q3 | https://www.springer.com/journal/11493                       |               ![DE](https://jackietseng.github.io/conference_call_for_paper/pics/de.png)                |
-| [Information Visualization](https://www.scimagojr.com/journalsearch.php?q=4700151613&tip=sid&clean=0) |    46    | 0.362 Q3 | https://journals.sagepub.com/home/ivi                        |               ![US](https://jackietseng.github.io/conference_call_for_paper/pics/us.png)                |
-| [Imaging Science Journal](https://www.scimagojr.com/journalsearch.php?q=25962&tip=sid&clean=0) |    23    | 0.208 Q4 | https://www.tandfonline.com/loi/yims20                       |               ![GB](https://jackietseng.github.io/conference_call_for_paper/pics/uk.png)                |
-| [ International Journal of Image and Graphics](https://www.scimagojr.com/journalsearch.php?q=21100869464&tip=sid&clean=0) |    20    | 0.147 Q4 | https://www.worldscientific.com/worldscinet/ijig             |               ![SG](https://jackietseng.github.io/conference_call_for_paper/pics/sg.png)                |
-| [模式识别与人工智能 / Pattern Recognition and Artificial Intelligence](https://www.scimagojr.com/journalsearch.php?q=87936&tip=sid&clean=0) |    20    | 0.170 Q4 | http://manu46.magtech.com.cn/Jweb_prai/EN/volumn/home.shtml  |               ![CN](https://jackietseng.github.io/conference_call_for_paper/pics/cn.png)                |
-| [Journal of Advanced Computational Intelligence and Intelligent Informatics](https://www.scimagojr.com/journalsearch.php?q=19700166503&tip=sid&clean=0) |    18    | 0.182 Q4 | https://www.fujipress.jp/jaciii/jc/                          |               ![JP](https://jackietseng.github.io/conference_call_for_paper/pics/jp.png)                |
-| [Journal of Information Hiding and Multimedia Signal Processing](https://www.scimagojr.com/journalsearch.php?q=21100223313&tip=sid&clean=0) |    26    | 0.166 Q4 | http://bit.kuas.edu.tw                                       |                                                  |
-
-
-### CCF 2019 中国计算机学会推荐国际学术会议和期刊目录
-
-参考链接：https://www.ccf.org.cn/Academic_Evaluation/AI/
-
-### SCImago Journal & Country Rank
-参考链接：https://www.scimagojr.com/
-
-
-
-
-
+| [Pattern Recognition Letters](https://www.scimagojr.com/journalsearch.php?q=24825&tip=sid&clean=0) |   149    | 0.848 Q1 | [Pattern Recognition Letters - Journal 
