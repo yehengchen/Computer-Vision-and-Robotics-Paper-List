@@ -45,7 +45,7 @@
 
 
 
-## SCI Jounral
+## SCI Journal
 
 ###  RO - 机器人
 
