@@ -6,7 +6,19 @@
 ## International Conferences and Journal  
 * [CV & RO Conferences Deadlines / Website](https://github.com/yehengchen/Computer-Vision-and-Robotics-Paper-List/blob/master/International%20Conferences%20and%20Journal.md#international-conferences)
 * [CV & RO SCI Journal Website](https://github.com/yehengchen/Computer-Vision-and-Robotics-Paper-List/blob/master/International%20Conferences%20and%20Journal.md#ro---%E6%9C%BA%E5%99%A8%E4%BA%BA)
+* 
 ## International Conference
+
+* ### Robotic Conference
+    * __ICRA__ : IEEE International Conference on Robotics and Automation
+        * [[ICRA2020]](https://github.com/yehengchen/Computer-Vision-and-Robotics-Paper-List/blob/master/ICRA2020.md) -> [[ICRA2021]](https://github.com/yehengchen/Computer-Vision-and-Robotics-Paper-List/blob/master/ICRA2021.md)
+    * __IROS__ : IEEE/RSJ International Conference on Intelligent Robots and Systems
+        * [[IROS2020]](https://github.com/yehengchen/Computer-Vision-and-Robotics-Paper-List/blob/master/IROS2020.md)
+    * __RSS__ : Robotics: Science and Systems
+    * __HRI__ : ACM/IEEE International Conference on Human Robot Interaction
+    * __ICARCV__ : International Conference on Control, Automation, Robotics and Vision
+    * __CoRL__: Conference on Robot Learning
+
 * ### Computer Vision Conference
     * __CVPR__ : IEEE/CVF Conference on Computer Vision and Pattern Recognition
         * [[CVPR2020]](https://github.com/yehengchen/Computer-Vision-and-Robotics-Paper-List/blob/master/CVPR2020.md) -> [[CVPR2021]](https://github.com/yehengchen/Computer-Vision-and-Robotics-Paper-List/blob/master/CVPR2021.md)
@@ -19,15 +31,6 @@
     * __ACCV__ : Asian Conference on Computer Vision (ACCV)
     * __ICPR__ : International Conference on Pattern Recognition
 
-* ### Robotic Conference
-    * __ICRA__ : IEEE International Conference on Robotics and Automation
-        * [[ICRA2020]](https://github.com/yehengchen/Computer-Vision-and-Robotics-Paper-List/blob/master/ICRA2020.md)
-    * __IROS__ : IEEE/RSJ International Conference on Intelligent Robots and Systems
-        * [[IROS2020]](https://github.com/yehengchen/Computer-Vision-and-Robotics-Paper-List/blob/master/IROS2020.md)
-    * __RSS__ : Robotics: Science and Systems
-    * __HRI__ : ACM/IEEE International Conference on Human Robot Interaction
-    * __ICARCV__ : International Conference on Control, Automation, Robotics and Vision
-    * __CoRL__: Conference on Robot Learning
 
 ***
 ## Robot Vision Paper List
