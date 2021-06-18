@@ -31,6 +31,12 @@
     * __ACCV__ : Asian Conference on Computer Vision (ACCV)
     * __ICPR__ : International Conference on Pattern Recognition
 
+* ### Artificial intelligence
+    * __NIPS__: Conference and Workshop on Neural Information Processing Systems
+    * __AAAI__: Association for the Advancement of Artificial Intelligence
+    * __ICML__: International Conference on Machine Learning
+    * __ICLR__: International Conference on Learning Representations
+
 
 ***
 ## Robot Vision Paper List
