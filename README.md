@@ -28,7 +28,7 @@
     * __BMVC__ : British Machine Vision Conference
     * __WACV__ : Workshop on Applications of Computer Vision
     * __ICIP__ : IEEE International Conference on Image Processing
-    * __ACCV__ : Asian Conference on Computer Vision (ACCV)
+    * __ACCV__ : Asian Conference on Computer Vision
     * __ICPR__ : International Conference on Pattern Recognition
 
 * ### Artificial intelligence
